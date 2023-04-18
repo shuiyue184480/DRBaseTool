@@ -1,0 +1,16 @@
+PODS:
+  - DRBaseTool (0.1.0)
+
+DEPENDENCIES:
+  - DRBaseTool (from `../`)
+
+EXTERNAL SOURCES:
+  DRBaseTool:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DRBaseTool: cb424d2954d8924a08c3f6032dbf616ab36bf5f1
+
+PODFILE CHECKSUM: 5f65a75a4a1910ca8be9bb6f3d5b01e98c96fdf1
+
+COCOAPODS: 1.11.3

@@ -1,0 +1,6 @@
+framework module DRBaseTool {
+  umbrella header "DRBaseTool-umbrella.h"
+
+  export *
+  module * { export * }
+}

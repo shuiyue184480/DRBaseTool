@@ -1,0 +1,6 @@
+framework module Pods_DRBaseTool_Example {
+  umbrella header "Pods-DRBaseTool_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

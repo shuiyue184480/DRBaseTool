@@ -1,0 +1,22 @@
+{
+  "name": "DRBaseTool",
+  "version": "0.1.0",
+  "summary": "A short description of DRBaseTool.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/shuiyue184480/DRBaseTool",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "shuiyue184480": "1843089057@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/shuiyue184480/DRBaseTool.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "DRBaseTool/Classes/**/*"
+}
